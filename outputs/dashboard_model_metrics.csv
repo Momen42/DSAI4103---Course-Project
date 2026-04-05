@@ -1,0 +1,4 @@
+Metric,Value,Target,Pass
+AUC-ROC,0.8967,0.8,True
+F1 Score,0.7218,0.65,True
+Demographic Parity Diff (Gender),0.0004,0.1,True
